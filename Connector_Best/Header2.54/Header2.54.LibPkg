@@ -99,23 +99,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=KF2510-LI.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=XH2.54.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -130,9 +113,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WEDICDQI
 
-[Document6]
+[Document5]
 DocumentPath=排针-排母.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -147,9 +130,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HHGMNDRR
 
-[Document7]
+[Document6]
 DocumentPath=DC3-2.54mm简牛贴片插座.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -164,9 +147,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MUXHQMFQ
 
-[Document8]
+[Document7]
 DocumentPath=DC-L-Z-2.54简牛立式直插插座4P-50P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -65,40 +65,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ESWWCJWJ
 
 [Document2]
-DocumentPath=KF.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EGYHTGCQ
-
-[Document3]
-DocumentPath=KF2510.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ISEIHPLO
-
-[Document4]
 DocumentPath=1.27MM_SMD_插针.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +81,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIRODMPL
 
-[Document5]
+[Document3]
 DocumentPath=1.27MM_SMD_母座.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +98,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHJPRYDE
 
-[Document6]
+[Document4]
 DocumentPath=1.27MM_插针.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +115,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGPGALFL
 
-[Document7]
+[Document5]
 DocumentPath=1.27MM_母座.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,40 +131,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=POSSYMRI
-
-[Document8]
-DocumentPath=KF2D.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BKDIMNAB
-
-[Document9]
-DocumentPath=Miscellaneous Header.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OPTGBFQC
 
 [OutputGroup1]
 Name=Netlist Outputs

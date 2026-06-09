@@ -252,23 +252,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLPTLZT
 
 [Document13]
-DocumentPath=9.2   - 显示器件.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BQKLWTTU
-
-[Document14]
 DocumentPath=10.1 - 保险丝-晶振.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +268,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGANVHYX
 
-[Document15]
+[Document14]
 DocumentPath=11.1 - 传感元件.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +285,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEOTXIAO
 
-[Document16]
+[Document15]
 DocumentPath=13.1 - 模块.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -319,7 +302,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MUYYBFIS
 
-[Document17]
+[Document16]
 DocumentPath=15.1 - 未分类器件.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -336,7 +319,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMOXWWAA
 
-[Document18]
+[Document17]
 DocumentPath=MTK_IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -353,7 +336,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPOVBXEJ
 
-[Document19]
+[Document18]
 DocumentPath=IGBT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -370,7 +353,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWEDSUVU
 
-[Document20]
+[Document19]
 DocumentPath=DIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -387,7 +370,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEAARWCW
 
-[Document21]
+[Document20]
 DocumentPath=ESOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -404,7 +387,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=ETSSOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -421,7 +404,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=LED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -438,7 +421,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXTCJMEB
 
-[Document24]
+[Document23]
 DocumentPath=LOGO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -455,7 +438,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=LQFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -472,7 +455,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQQVCEIQ
 
-[Document26]
+[Document25]
 DocumentPath=M3铜柱.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -489,7 +472,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=MSOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -506,7 +489,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=PLCC芯片.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -523,7 +506,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -540,7 +523,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOXIYWQH
 
-[Document30]
+[Document29]
 DocumentPath=SOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -557,7 +540,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPGDUALF
 
-[Document31]
+[Document30]
 DocumentPath=SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -574,7 +557,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKHVBMLR
 
-[Document32]
+[Document31]
 DocumentPath=SOT芯片.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -591,7 +574,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLKSLQFP
 
-[Document33]
+[Document32]
 DocumentPath=SO芯片.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -608,7 +591,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKAVXTCU
 
-[Document34]
+[Document33]
 DocumentPath=SSOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -625,7 +608,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCIVBDDH
 
-[Document35]
+[Document34]
 DocumentPath=SWPA系列电感.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -642,7 +625,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNGSFNQH
 
-[Document36]
+[Document35]
 DocumentPath=TQFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -659,7 +642,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RPNLQTXT
 
-[Document37]
+[Document36]
 DocumentPath=TSSOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -676,7 +659,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EERJTMVP
 
-[Document38]
+[Document37]
 DocumentPath=TO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -693,7 +676,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXKWYEDW
 
-[Document39]
+[Document38]
 DocumentPath=XT电源接口.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -710,7 +693,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKLQMCNU
 
-[Document40]
+[Document39]
 DocumentPath=按键.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -727,7 +710,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=保险丝.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -744,7 +727,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=变压器.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -761,7 +744,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=拨码开关.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -778,7 +761,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=触控弹簧.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -795,7 +778,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=传感元件.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -812,7 +795,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=电感.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -829,7 +812,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXLUVFMP
 
-[Document47]
+[Document46]
 DocumentPath=电容.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -846,7 +829,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHHYYYDN
 
-[Document48]
+[Document47]
 DocumentPath=电位器.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -863,7 +846,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=电源接口.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -880,7 +863,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=电阻.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -897,7 +880,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFQWERTA
 
-[Document51]
+[Document50]
 DocumentPath=电阻直插.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -914,7 +897,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTQUMJWK
 
-[Document52]
+[Document51]
 DocumentPath=二极管-整流桥.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -931,7 +914,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=晶振.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -948,7 +931,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=开关.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -965,7 +948,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document54]
 DocumentPath=冷压插片.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -982,7 +965,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=模块.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -999,7 +982,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDKMPHMC
 
-[Document57]
+[Document56]
 DocumentPath=跳线.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1016,7 +999,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXPPNYMV
 
-[Document58]
+[Document57]
 DocumentPath=通讯接口.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1033,7 +1016,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQQIKGCK
 
-[Document59]
+[Document58]
 DocumentPath=未分类器件.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1050,24 +1033,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVURQSII
 
-[Document60]
-DocumentPath=显示器件.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RAYJEQOK
-
-[Document61]
+[Document59]
 DocumentPath=压敏电阻.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1084,7 +1050,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document60]
 DocumentPath=音频接口.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1101,7 +1067,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document61]
 DocumentPath=IGBT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1118,7 +1084,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYDOSHUG
 
-[Document64]
+[Document62]
 DocumentPath=MWSA系列电感.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
